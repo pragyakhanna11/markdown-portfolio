@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Ping-Pong pygame](https://github.com/pragyakhanna11/Ping-Pong.git)
+[Rock-Paper-Scissors](https://github.com/pragyakhanna11/Rock-Paper-Scissors.git)
